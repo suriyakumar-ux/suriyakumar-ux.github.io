@@ -2838,7 +2838,7 @@ img {
     }
 
     .hero-name {
-        font-size: clamp(2.65rem, 14vw, 4.15rem);
+        font-size: 40px;
     }
 
     .hero-title {

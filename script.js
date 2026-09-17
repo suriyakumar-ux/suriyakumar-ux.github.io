@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const projectButtonLinks = {
         logo: 'https://drive.google.com/drive/folders/PASTE_LOGO_DRIVE_LINK_HERE',
         poster: 'https://drive.google.com/drive/folders/PASTE_POSTER_DRIVE_LINK_HERE',
-        brochure: 'https://drive.google.com/drive/folders/PASTE_BROCHURE_DRIVE_LINK_HERE',
+        brochure: 'https://drive.google.com/drive/folders/1-w0tijKzwPJ-O4S8MenLW-hEELRkSClB?usp=sharing',
         visiting: 'https://drive.google.com/drive/folders/PASTE_VISITING_CARDS_DRIVE_LINK_HERE',
         video: 'https://drive.google.com/drive/folders/PASTE_VIDEO_DRIVE_LINK_HERE'
     };
